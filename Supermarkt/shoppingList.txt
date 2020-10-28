@@ -1,0 +1,4 @@
+Eier;10;
+Brot;2;
+Milch;3;
+Joghurt;6;
